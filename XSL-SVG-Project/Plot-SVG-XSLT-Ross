@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000"
+     height="300"
+     viewBox="0 0 1000 300">
+   <g transform="translate(50, 100)">
+      <rect x="0"
+            y="0"
+            width="7.142857142857142857"
+            height="80"
+            fill="hsl(60, 70%, 50%)"
+            stroke="white"
+            stroke-width="2">
+         <title>#Giorno: 1 speeches</title>
+      </rect>
+      <text x="0" y="100" font-family="sans-serif" font-size="12">#Giorno</text>
+      <rect x="7.142857142857142857"
+            y="0"
+            width="271.428571428571428566"
+            height="80"
+            fill="hsl(120, 70%, 50%)"
+            stroke="white"
+            stroke-width="2">
+         <title>#giorno: 38 speeches</title>
+      </rect>
+      <text x="7.142857142857142857"
+            y="100"
+            font-family="sans-serif"
+            font-size="12">#giorno</text>
+      <rect x="49.999999999999999999"
+            y="0"
+            width="185.714285714285714282"
+            height="80"
+            fill="hsl(180, 70%, 50%)"
+            stroke="white"
+            stroke-width="2">
+         <title>#trish-&gt;mista: 26 speeches</title>
+      </rect>
+      <text x="49.999999999999999999"
+            y="100"
+            font-family="sans-serif"
+            font-size="12">#trish-&gt;mista</text>
+      <rect x="57.142857142857142856"
+            y="0"
+            width="78.571428571428571427"
+            height="80"
+            fill="hsl(240, 70%, 50%)"
+            stroke="white"
+            stroke-width="2">
+         <title>#mista-&gt;trish: 11 speeches</title>
+      </rect>
+      <text x="57.142857142857142856"
+            y="100"
+            font-family="sans-serif"
+            font-size="12">#mista-&gt;trish</text>
+      <rect x="192.857142857142857139"
+            y="0"
+            width="21.428571428571428571"
+            height="80"
+            fill="hsl(300, 70%, 50%)"
+            stroke="white"
+            stroke-width="2">
+         <title>#diavolo: 3 speeches</title>
+      </rect>
+      <text x="192.857142857142857139"
+            y="100"
+            font-family="sans-serif"
+            font-size="12">#diavolo</text>
+      <rect x="264.285714285714285709"
+            y="0"
+            width="114.285714285714285712"
+            height="80"
+            fill="hsl(360, 70%, 50%)"
+            stroke="white"
+            stroke-width="2">
+         <title>#diavolo-&gt;buccellati: 16 speeches</title>
+      </rect>
+      <text x="264.285714285714285709"
+            y="100"
+            font-family="sans-serif"
+            font-size="12">#diavolo-&gt;buccellati</text>
+      <rect x="285.71428571428571428"
+            y="0"
+            width="14.285714285714285714"
+            height="80"
+            fill="hsl(420, 70%, 50%)"
+            stroke="white"
+            stroke-width="2">
+         <title>mista-&gt;trish: 2 speeches</title>
+      </rect>
+      <text x="285.71428571428571428"
+            y="100"
+            font-family="sans-serif"
+            font-size="12">mista-&gt;trish</text>
+      <rect x="342.857142857142857136"
+            y="0"
+            width="35.714285714285714285"
+            height="80"
+            fill="hsl(480, 70%, 50%)"
+            stroke="white"
+            stroke-width="2">
+         <title>#turtle-&gt;polnareff: 5 speeches</title>
+      </rect>
+      <text x="342.857142857142857136"
+            y="100"
+            font-family="sans-serif"
+            font-size="12">#turtle-&gt;polnareff</text>
+      <rect x="378.571428571428571421"
+            y="0"
+            width="35.714285714285714285"
+            height="80"
+            fill="hsl(540, 70%, 50%)"
+            stroke="white"
+            stroke-width="2">
+         <title>#sound: 5 speeches</title>
+      </rect>
+      <text x="378.571428571428571421"
+            y="100"
+            font-family="sans-serif"
+            font-size="12">#sound</text>
+      <rect x="399.999999999999999992"
+            y="0"
+            width="7.142857142857142857"
+            height="80"
+            fill="hsl(600, 70%, 50%)"
+            stroke="white"
+            stroke-width="2">
+         <title>sound: 1 speeches</title>
+      </rect>
+      <text x="399.999999999999999992"
+            y="100"
+            font-family="sans-serif"
+            font-size="12">sound</text>
+      <rect x="721.428571428571428557"
+            y="0"
+            width="7.142857142857142857"
+            height="80"
+            fill="hsl(660, 70%, 50%)"
+            stroke="white"
+            stroke-width="2">
+         <title>trish-&gt;mista: 1 speeches</title>
+      </rect>
+      <text x="721.428571428571428557"
+            y="100"
+            font-family="sans-serif"
+            font-size="12">trish-&gt;mista</text>
+      <rect x="778.571428571428571413"
+            y="0"
+            width="21.428571428571428571"
+            height="80"
+            fill="hsl(720, 70%, 50%)"
+            stroke="white"
+            stroke-width="2">
+         <title>#king_crimson: 3 speeches</title>
+      </rect>
+      <text x="778.571428571428571413"
+            y="100"
+            font-family="sans-serif"
+            font-size="12">#king_crimson</text>
+   </g>
+</svg>

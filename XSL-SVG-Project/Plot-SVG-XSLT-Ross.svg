@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500">
+   <g transform="translate(50, 200)">
+      <rect x="0"
+            y="0"
+            width="8.928571428571428571"
+            height="100"
+            fill="hsl(45, 70%, 50%)"
+            stroke="white"
+            stroke-width="1">
+         <title>#Giorno: 1</title>
+      </rect>
+      <text x="0"
+            y="120"
+            font-family="sans-serif"
+            font-size="12"
+            transform="rotate(45, 0, 120)">#Giorno</text>
+      <rect x="633.928571428571428541"
+            y="0"
+            width="339.285714285714285698"
+            height="100"
+            fill="hsl(90, 70%, 50%)"
+            stroke="white"
+            stroke-width="1">
+         <title>#giorno: 38</title>
+      </rect>
+      <text x="633.928571428571428541"
+            y="120"
+            font-family="sans-serif"
+            font-size="12"
+            transform="rotate(45, 633.928571428571428541, 120)">#giorno</text>
+      <rect x="624.99999999999999997"
+            y="0"
+            width="232.142857142857142846"
+            height="100"
+            fill="hsl(135, 70%, 50%)"
+            stroke="white"
+            stroke-width="1">
+         <title>#trish-&gt;mista: 26</title>
+      </rect>
+      <text x="624.99999999999999997"
+            y="120"
+            font-family="sans-serif"
+            font-size="12"
+            transform="rotate(45, 624.99999999999999997, 120)">#trish-&gt;mista</text>
+      <rect x="839.285714285714285674"
+            y="0"
+            width="98.214285714285714281"
+            height="100"
+            fill="hsl(180, 70%, 50%)"
+            stroke="white"
+            stroke-width="1">
+         <title>#mista-&gt;trish: 11</title>
+      </rect>
+      <text x="839.285714285714285674"
+            y="120"
+            font-family="sans-serif"
+            font-size="12"
+            transform="rotate(45, 839.285714285714285674, 120)">#mista-&gt;trish</text>
+      <rect x="241.071428571428571417"
+            y="0"
+            width="26.785714285714285713"
+            height="100"
+            fill="hsl(225, 70%, 50%)"
+            stroke="white"
+            stroke-width="1">
+         <title>#diavolo: 3</title>
+      </rect>
+      <text x="241.071428571428571417"
+            y="120"
+            font-family="sans-serif"
+            font-size="12"
+            transform="rotate(45, 241.071428571428571417, 120)">#diavolo</text>
+      <rect x="821.428571428571428532"
+            y="0"
+            width="142.857142857142857136"
+            height="100"
+            fill="hsl(270, 70%, 50%)"
+            stroke="white"
+            stroke-width="1">
+         <title>#diavolo-&gt;buccellati: 16</title>
+      </rect>
+      <text x="821.428571428571428532"
+            y="120"
+            font-family="sans-serif"
+            font-size="12"
+            transform="rotate(45, 821.428571428571428532, 120)">#diavolo-&gt;buccellati</text>
+      <rect x="357.14285714285714284"
+            y="0"
+            width="17.857142857142857142"
+            height="100"
+            fill="hsl(315, 70%, 50%)"
+            stroke="white"
+            stroke-width="1">
+         <title>mista-&gt;trish: 2</title>
+      </rect>
+      <text x="357.14285714285714284"
+            y="120"
+            font-family="sans-serif"
+            font-size="12"
+            transform="rotate(45, 357.14285714285714284, 120)">mista-&gt;trish</text>
+      <rect x="857.142857142857142816"
+            y="0"
+            width="44.642857142857142855"
+            height="100"
+            fill="hsl(360, 70%, 50%)"
+            stroke="white"
+            stroke-width="1">
+         <title>#turtle-&gt;polnareff: 5</title>
+      </rect>
+      <text x="857.142857142857142816"
+            y="120"
+            font-family="sans-serif"
+            font-size="12"
+            transform="rotate(45, 857.142857142857142816, 120)">#turtle-&gt;polnareff</text>
+      <rect x="839.285714285714285674"
+            y="0"
+            width="44.642857142857142855"
+            height="100"
+            fill="hsl(405, 70%, 50%)"
+            stroke="white"
+            stroke-width="1">
+         <title>#sound: 5</title>
+      </rect>
+      <text x="839.285714285714285674"
+            y="120"
+            font-family="sans-serif"
+            font-size="12"
+            transform="rotate(45, 839.285714285714285674, 120)">#sound</text>
+      <rect x="499.999999999999999976"
+            y="0"
+            width="8.928571428571428571"
+            height="100"
+            fill="hsl(450, 70%, 50%)"
+            stroke="white"
+            stroke-width="1">
+         <title>sound: 1</title>
+      </rect>
+      <text x="499.999999999999999976"
+            y="120"
+            font-family="sans-serif"
+            font-size="12"
+            transform="rotate(45, 499.999999999999999976, 120)">sound</text>
+      <rect x="901.785714285714285671"
+            y="0"
+            width="8.928571428571428571"
+            height="100"
+            fill="hsl(495, 70%, 50%)"
+            stroke="white"
+            stroke-width="1">
+         <title>trish-&gt;mista: 1</title>
+      </rect>
+      <text x="901.785714285714285671"
+            y="120"
+            font-family="sans-serif"
+            font-size="12"
+            transform="rotate(45, 901.785714285714285671, 120)">trish-&gt;mista</text>
+      <rect x="973.214285714285714239"
+            y="0"
+            width="26.785714285714285713"
+            height="100"
+            fill="hsl(540, 70%, 50%)"
+            stroke="white"
+            stroke-width="1">
+         <title>#king_crimson: 3</title>
+      </rect>
+      <text x="973.214285714285714239"
+            y="120"
+            font-family="sans-serif"
+            font-size="12"
+            transform="rotate(45, 973.214285714285714239, 120)">#king_crimson</text>
+   </g>
+</svg>
