@@ -4,7 +4,7 @@
     - Find: ```&```
     - Find: ```<```
     - Find: ```>```
-z
+
 1. Tagging The paragraphs
     - Find: ```\n\n```
     - Replace: ```</p>\n<p>```
@@ -23,6 +23,6 @@ z
 
 1. Find All Of The ```<p\>``` and delete them
     - Find: ```<p\>```
-    - Replace: ```(blank space)```
+    - Replace: 
 
 1. To indent everything and format it to XML, I did ```CMD+Shift+P```
