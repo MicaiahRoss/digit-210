@@ -6,10 +6,10 @@
     
     <xsl:mode on-no-match="shallow-copy"/>
     
-    <xsl:template match="text()">
-        <xsl:analyze-string select="." regex="\[(.+?)\]" flags="s">
+    <xsl:template match="text()"> <!-- Looks for stage direction enclosed in square brackets -->
+        <xsl:analyze-string select="." regex="\[(.+?)\]" flags="s"> <!-- flags allows dot to match line breaks -->
             <xsl:matching-substring>
-                <stage><xsl:value-of select="regex-group(1)"/></stage>
+                <stage><xsl:value-of select="regex-group(1)"/></stage> 
             </xsl:matching-substring>
             <xsl:non-matching-substring>
                 <xsl:analyze-string select="." regex="^([A-Z\s]+):" flags="m">
@@ -23,13 +23,6 @@
                 </xsl:analyze-string>
             </xsl:non-matching-substring>
         </xsl:analyze-string>
-    </xsl:template>
-    
-    <xsl:template match="sp[not(node())]">
-        <scene-direction>
-            <xsl:apply-templates select="@*"/>
-            <xsl:text>Scene Direction Placeholder</xsl:text>
-        </scene-direction>
     </xsl:template>
     
 </xsl:stylesheet>
