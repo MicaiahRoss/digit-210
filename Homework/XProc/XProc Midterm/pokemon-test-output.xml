@@ -1,0 +1,8 @@
+<fail xmlns:ixml='http://invisiblexml.org/NS' ixml:state='failed'>
+   <line>9</line>
+   <column>2</column>
+   <pos>31</pos>
+   <unexpected>c</unexpected>
+   <permitted>'i'</permitted>
+   <also-predicted>~['A'], ~['A']</also-predicted>
+</fail>

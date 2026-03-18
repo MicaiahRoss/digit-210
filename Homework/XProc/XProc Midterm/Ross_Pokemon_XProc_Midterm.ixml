@@ -1,0 +1,2 @@
+data = move+ .
+move = ~[#a;#d]* , -[#a;#d]+ .

@@ -1,0 +1,25 @@
+
+pokemon = -header, move+ .
+-header = (line, [#a; #d])**13 .
+-line = ~[#a; #d]* .
+
+move = name, tab, type, tab, cat, tab, power, tab, acc, tab, pp, tab, effect, [#a; #d]* .
+
+
+
+name = ~[#9; #a; #d]+ .
+
+type = ~[#9; #a; #d]+ .
+cat  = ~[#9; #a; #d]+ .
+
+
+power = [#30-#39; #2014; #20]+ .
+acc   = [#30-#39; #2014; #20]+ .
+pp    = [#30-#39; #2014; #20]+ .
+
+
+effect = ~[#a; #d]+ .
+
+
+-tab = -s*, #9, -s* .
+-s = [#20] .

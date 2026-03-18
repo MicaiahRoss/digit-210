@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?><transcript xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous"><cue><id>1</id>
+<times>00:00:03,190 --&gt; 00:00:07,330</times>
+<speech><line>Greetings digit 210.</line>
+<line>So at the end of class</line>
+
+<line>2</line>
+<line>00:00:07,330 --&gt; 00:00:10,510</line>
+<line>today on Friday January</line>
+<line>30th I left us on a</line>
+
+<line>3</line>
+<line>00:00:10,510 --&gt; 00:00:13,250</line>
+<line>bit of a cliffhanger</line>
+<line>with a bit of broken</line>
+
+<line>4</line>
+<line>00:00:13,250 --&gt; 00:00:15,990</line>
+<line>code. Let me remind</line>
+<line>you what we were trying</line>
+
+<line>5</line>
+<line>00:00:15,990 --&gt; 00:00:19,090</line>
+<line>to do. I have now fixed</line>
+<line>it so I'm going to</line>
+
+<line>6</line>
+<line>00:00:19,090 --&gt; 00:00:22,830</line>
+<line>show you the graph the</line>
+<line>way I wanted to plot</line>
+
+<line>7</line>
+<line>00:00:22,830 --&gt; 00:00:27,330</line>
+<line>it. Here it is and</line>
+<line>this is the number of</line>
+
+<line>8</line>
+<line>00:00:27,330 --&gt; 00:00:31,880</line>
+<line>speeches in each location</line>
+<line>of the Dan to Dan</line>
+
+<line>9</line>
+<line>00:00:31,880 --&gt; 00:00:34,950</line>
+<line>episode that we were</line>
+<line>looking at. And as you see,</line>
+
+<line>10</line>
+<line>00:00:34,950 --&gt; 00:00:36,830</line>
+<line>this is what I wanted</line>
+<line>to do. I wanted to</line>
+
+<line>11</line>
+<line>00:00:36,830 --&gt; 00:00:39,510</line>
+<line>put the location with</line>
+<line>the most speeches at</line>
+
+<line>12</line>
+<line>00:00:39,510 --&gt; 00:00:42,410</line>
+<line>the bottom of the graph,</line>
+<line>and then I could plot</line>
+
+<line>13</line>
+<line>00:00:42,410 --&gt; 00:00:45,390</line>
+<line>them in descending</line>
+<line>order. So each one of</line>
+
+<line>14</line>
+<line>00:00:45,390 --&gt; 00:00:47,890</line>
+<line>these little wedges</line>
+<line>gets smaller and smaller</line>
+
+<line>15</line>
+<line>00:00:47,890 --&gt; 00:00:50,530</line>
+<line>based on the number</line>
+<line>of speeches. We go 49</line>
+
+<line>16</line>
+<line>00:00:50,530 --&gt; 00:00:55,590</line>
+<line>to 33 to 24. so you see</line>
+<line>how that works so how</line>
+
+<line>17</line>
+<line>00:00:55,590 --&gt; 00:01:01,570</line>
+<line>did I do that and</line>
+<line>let me stop the share</line>
+
+<line>18</line>
+<line>00:01:01,570 --&gt; 00:01:07,850</line>
+<line>restart it switch to my</line>
+<line>other desktop and here</line>
+
+<line>19</line>
+<line>00:01:07,850 --&gt; 00:01:13,110</line>
+<line>I think you can see</line>
+<line>my code so previously</line>
+
+<line>20</line>
+<line>00:01:13,110 --&gt; 00:01:17,070</line>
+<line>we had been sort we</line>
+<line>had been outputting a</line>
+
+<line>21</line>
+<line>00:01:17,070 --&gt; 00:01:21,950</line>
+<line>chunk of like a little</line>
+<line>bar to stack based on</line>
+
+<line>22</line>
+<line>00:01:21,950 --&gt; 00:01:25,610</line>
+<line>these distinct values</line>
+<line>of the where attributes</line>
+
+<line>23</line>
+<line>00:01:25,610 --&gt; 00:01:29,650</line>
+<line>on stage and previously</line>
+<line>I had this little</line>
+
+<line>24</line>
+<line>00:01:29,650 --&gt; 00:01:33,170</line>
+<line>expath sort what that</line>
+<line>did is sort these</line>
+
+<line>25</line>
+<line>00:01:33,170 --&gt; 00:01:36,590</line>
+<line>distinct values the default</line>
+<line>way and expath which</line>
+
+<line>26</line>
+<line>00:01:36,590 --&gt; 00:01:39,270</line>
+<line>is alphabetical order</line>
+<line>and we decided that</line>
+
+<line>27</line>
+<line>00:01:39,270 --&gt; 00:01:41,090</line>
+<line>didn't really look so</line>
+<line>good or make that much</line>
+
+<line>28</line>
+<line>00:01:41,090 --&gt; 00:01:43,310</line>
+<line>sense so we're gonna</line>
+<line>do it a different way</line>
+
+<line>29</line>
+<line>00:01:43,310 --&gt; 00:01:48,910</line>
+<line>to fix things I</line>
+<line>removed this sort and I</line>
+
+<line>30</line>
+<line>00:01:48,910 --&gt; 00:01:54,730</line>
+<line>created a new variable</line>
+<line>down here that I'm going</line>
+
+<line>31</line>
+<line>00:01:54,730 --&gt; 00:01:57,470</line>
+<line>to take out a little</line>
+<line>extra white space here</line>
+
+<line>32</line>
+<line>00:01:57,920 --&gt; 00:02:03,210</line>
+<line>I'm calling this one</line>
+<line>sorted stage locations</line>
+
+<line>33</line>
+<line>00:02:03,350 --&gt; 00:02:06,250</line>
+<line>you saw me do this</line>
+<line>earlier in class where</line>
+
+<line>34</line>
+<line>00:02:06,250 --&gt; 00:02:10,030</line>
+<line>I unpack a variable and</line>
+<line>I go through things,</line>
+
+<line>35</line>
+<line>00:02:10,030 --&gt; 00:02:12,470</line>
+<line>this is going to make</line>
+<line>a series of strings.</line>
+
+<line>36</line>
+<line>00:02:12,590 --&gt; 00:02:15,750</line>
+<line>This time, I start</line>
+<line>with the distinct stage</line>
+
+<line>37</line>
+<line>00:02:15,750 --&gt; 00:02:18,750</line>
+<line>locations that we</line>
+<line>calculated up here,</line>
+
+<line>38</line>
+<line>00:02:18,980 --&gt; 00:02:22,670</line>
+<line>and I'm going to go</line>
+<line>in, and I'm actually</line>
+
+<line>39</line>
+<line>00:02:22,670 --&gt; 00:02:27,370</line>
+<line>using the XSL sort in</line>
+<line>here. This made a nice</line>
+
+<line>40</line>
+<line>00:02:27,370 --&gt; 00:02:29,650</line>
+<line>safe space for me</line>
+<line>to work this out and</line>
+
+<line>41</line>
+<line>00:02:29,650 --&gt; 00:02:32,310</line>
+<line>check my work to make</line>
+<line>sure it was it was</line>
+
+<line>42</line>
+<line>00:02:32,310 --&gt; 00:02:37,670</line>
+<line>working so I said XSL</line>
+<line>sort but we're gonna</line>
+
+<line>43</line>
+<line>00:02:37,670 --&gt; 00:02:42,490</line>
+<line>do this based on the</line>
+<line>XML tree we're gonna</line>
+
+<line>44</line>
+<line>00:02:42,490 --&gt; 00:02:46,890</line>
+<line>go down find the stages</line>
+<line>where the current</line>
+
+<line>45</line>
+<line>00:02:46,890 --&gt; 00:02:51,770</line>
+<line>one where the where</line>
+<line>the where attribute</line>
+
+<line>46</line>
+<line>00:02:51,770 --&gt; 00:02:54,470</line>
+<line>equals the current</line>
+<line>value we're gonna go</line>
+
+<line>47</line>
+<line>00:02:54,470 --&gt; 00:02:56,630</line>
+<line>reach into the speeches</line>
+<line>and count them.</line>
+
+<line>48</line>
+<line>00:02:56,910 --&gt; 00:03:02,250</line>
+<line>And what xsl sort</line>
+<line>does is it changes the</line>
+
+<line>49</line>
+<line>00:03:02,250 --&gt; 00:03:06,730</line>
+<line>order of the output</line>
+<line>based on the number</line>
+
+<line>50</line>
+<line>00:03:06,730 --&gt; 00:03:10,650</line>
+<line>of counts. So this</line>
+<line>value here is going to</line>
+
+<line>51</line>
+<line>00:03:10,650 --&gt; 00:03:14,250</line>
+<line>determine the order</line>
+<line>of the output of xsl</line>
+
+<line>52</line>
+<line>00:03:14,250 --&gt; 00:03:17,090</line>
+<line>for each. I have to</line>
+<line>output something or</line>
+
+<line>53</line>
+<line>00:03:17,090 --&gt; 00:03:20,150</line>
+<line>this doesn't work. So</line>
+<line>I say output the value</line>
+
+<line>54</line>
+<line>00:03:20,150 --&gt; 00:03:24,130</line>
+<line>of the current</line>
+<line>location at this point.</line>
+
+<line>55</line>
+<line>00:03:24,190 --&gt; 00:03:26,950</line>
+<line>XSL sort is a little</line>
+<line>bit of magic, just</line>
+
+<line>56</line>
+<line>00:03:26,950 --&gt; 00:03:29,990</line>
+<line>like XPath sort, but</line>
+<line>the way it's going</line>
+
+<line>57</line>
+<line>00:03:29,990 --&gt; 00:03:34,210</line>
+<line>to work is like every</line>
+<line>time the XSL foreach</line>
+
+<line>58</line>
+<line>00:03:34,210 --&gt; 00:03:36,230</line>
+<line>runs, it's going</line>
+<line>to grab a count</line>
+
+<line>59</line>
+<line>00:03:36,230 --&gt; 00:03:39,770</line>
+<line>value, and the output</line>
+<line>of this foreach is</line>
+
+<line>60</line>
+<line>00:03:39,770 --&gt; 00:03:44,170</line>
+<line>going to be determined</line>
+<line>by the sort order,</line>
+
+<line>61</line>
+<line>00:03:44,170 --&gt; 00:03:46,850</line>
+<line>which we've now made</line>
+<line>based on a number.</line>
+
+<line>62</line>
+<line>00:03:47,310 --&gt; 00:03:51,190</line>
+<line>okay I checked this in</line>
+<line>an XSL comment because</line>
+
+<line>63</line>
+<line>00:03:51,190 --&gt; 00:03:53,610</line>
+<line>I really wanted to</line>
+<line>make sure that I had</line>
+
+<line>64</line>
+<line>00:03:53,610 --&gt; 00:03:56,550</line>
+<line>a series of strings</line>
+<line>that were based on my</line>
+
+<line>65</line>
+<line>00:03:56,550 --&gt; 00:03:59,630</line>
+<line>sort order and I knew</line>
+<line>that spaceship was</line>
+
+<line>66</line>
+<line>00:03:59,630 --&gt; 00:04:02,810</line>
+<line>going to be the largest</line>
+<line>one so when I run this</line>
+
+<line>67</line>
+<line>00:04:02,810 --&gt; 00:04:04,770</line>
+<line>I'm going to like</line>
+<line>make sure I save this</line>
+
+<line>68</line>
+<line>00:04:04,770 --&gt; 00:04:08,150</line>
+<line>and run it I'm going</line>
+<line>to go take a look at</line>
+
+<line>69</line>
+<line>00:04:08,150 --&gt; 00:04:12,150</line>
+<line>my output and try to</line>
+<line>move my zoom screen over</line>
+
+<line>70</line>
+<line>00:04:12,330 --&gt; 00:04:15,670</line>
+<line>and you can see my</line>
+<line>sorted stage locations</line>
+
+<line>71</line>
+<line>00:04:15,670 --&gt; 00:04:19,010</line>
+<line>are spaceship hallway</line>
+<line>hospital and as soon</line>
+
+<line>72</line>
+<line>00:04:19,010 --&gt; 00:04:21,490</line>
+<line>as i saw that i knew</line>
+<line>this was what i wanted</line>
+
+<line>73</line>
+<line>00:04:21,490 --&gt; 00:04:24,210</line>
+<line>um i wanted i did</line>
+<line>that i want to look at</line>
+
+<line>74</line>
+<line>00:04:24,210 --&gt; 00:04:26,250</line>
+<line>my output usually</line>
+<line>when i'm about to plot</line>
+
+<line>75</line>
+<line>00:04:26,250 --&gt; 00:04:30,050</line>
+<line>to make sure i i got</line>
+<line>it right so i may have</line>
+
+<line>76</line>
+<line>00:04:30,050 --&gt; 00:04:32,830</line>
+<line>been able to i i didn't</line>
+<line>get this working in</line>
+
+<line>77</line>
+<line>00:04:32,830 --&gt; 00:04:34,930</line>
+<line>the real for each</line>
+<line>over this where i'm</line>
+
+<line>78</line>
+<line>00:04:34,930 --&gt; 00:04:37,510</line>
+<line>plotting the g elements</line>
+<line>but i did it up here</line>
+
+<line>79</line>
+<line>00:04:37,510 --&gt; 00:04:40,690</line>
+<line>i'm going to use sorted</line>
+<line>stage locations now</line>
+
+<line>80</line>
+<line>00:04:41,190 --&gt; 00:04:44,790</line>
+<line>and when I began</line>
+<line>plotting I changed this</line>
+
+<line>81</line>
+<line>00:04:44,790 --&gt; 00:04:48,050</line>
+<line>from distinct stage</line>
+<line>locations to sorted stage</line>
+
+<line>82</line>
+<line>00:04:48,050 --&gt; 00:04:50,490</line>
+<line>locations and you'll</line>
+<line>see that change when</line>
+
+<line>83</line>
+<line>00:04:50,490 --&gt; 00:04:54,400</line>
+<line>I go to push my code</line>
+<line>in a few minutes I'll</line>
+
+<line>84</line>
+<line>00:04:54,870 --&gt; 00:04:57,950</line>
+<line>that this has changed</line>
+<line>and now it's it's going</line>
+
+<line>85</line>
+<line>00:04:57,950 --&gt; 00:05:00,750</line>
+<line>to be plotting these</line>
+<line>in the sort order and</line>
+
+<line>86</line>
+<line>00:05:00,750 --&gt; 00:05:02,650</line>
+<line>then I keep pretty much</line>
+<line>everything else the</line>
+
+<line>87</line>
+<line>00:05:02,650 --&gt; 00:05:06,530</line>
+<line>same except I needed</line>
+<line>to remember to change</line>
+
+<line>88</line>
+<line>00:05:06,530 --&gt; 00:05:09,570</line>
+<line>my stack that this like</line>
+<line>change that variable</line>
+
+<line>89</line>
+<line>00:05:09,570 --&gt; 00:05:11,750</line>
+<line>down here where I'm</line>
+<line>doing the stacking</line>
+
+<line>90</line>
+<line>00:05:11,750 --&gt; 00:05:14,110</line>
+<line>so instead of making</line>
+<line>that based on distinct</line>
+
+<line>91</line>
+<line>00:05:14,110 --&gt; 00:05:16,730</line>
+<line>stage locations I now</line>
+<line>needed to use my new</line>
+
+<line>92</line>
+<line>00:05:16,730 --&gt; 00:05:19,350</line>
+<line>variable as soon as</line>
+<line>I did that I get the</line>
+
+<line>93</line>
+<line>00:05:19,350 --&gt; 00:05:24,270</line>
+<line>output that I want and</line>
+<line>I will switch my share</line>
+
+<line>94</line>
+<line>00:05:24,270 --&gt; 00:05:28,420</line>
+<line>again to just show this</line>
+<line>to you it all works</line>
+
+<line>95</line>
+<line>00:05:28,420 --&gt; 00:05:33,360</line>
+<line>this is all working</line>
+<line>the way I intended and</line>
+
+<line>96</line>
+<line>00:05:33,530 --&gt; 00:05:36,510</line>
+<line>we've got the output</line>
+<line>coming out sorting is</line>
+
+<line>97</line>
+<line>00:05:36,510 --&gt; 00:05:39,050</line>
+<line>a little tricky but</line>
+<line>now that you have one</line>
+
+<line>98</line>
+<line>00:05:39,050 --&gt; 00:05:42,510</line>
+<line>that's working to use</line>
+<line>as a model I hope that</line>
+
+<line>99</line>
+<line>00:05:42,510 --&gt; 00:05:44,350</line>
+<line>you'll find this</line>
+<line>helpful in your own code</line>
+
+<line>100</line>
+<line>00:05:44,350 --&gt; 00:05:48,350</line>
+<line>okay so two videos</line>
+<line>today and I hope this is</line>
+
+<line>101</line>
+<line>00:05:48,350 --&gt; 00:05:51,310</line>
+<line>useful to you good luck</line>
+<line>with the assignment</line>
+
+<line>102</line>
+<line>00:05:51,310 --&gt; 00:05:54,090</line>
+<line>for next week I'm gonna</line>
+<line>quickly look at that</line>
+
+<line>103</line>
+<line>00:05:54,090 --&gt; 00:05:56,570</line>
+<line>while I'm on the zoom</line>
+<line>with you let's go</line>
+
+<line>104</line>
+<line>00:05:56,570 --&gt; 00:06:02,470</line>
+<line>back here take a look</line>
+<line>at assignments so this</line>
+
+<line>105</line>
+<line>00:06:02,470 --&gt; 00:06:04,990</line>
+<line>is a little little</line>
+<line>exercise for Monday to</line>
+
+<line>106</line>
+<line>00:06:04,990 --&gt; 00:06:07,030</line>
+<line>introduce the new</line>
+<line>regular expressions unit</line>
+
+<line>107</line>
+<line>00:06:07,030 --&gt; 00:06:09,610</line>
+<line>but this very last</line>
+<line>thing it's like kind of</line>
+
+<line>108</line>
+<line>00:06:09,610 --&gt; 00:06:12,470</line>
+<line>our last hurrah for</line>
+<line>this unit plotting svg</line>
+
+<line>109</line>
+<line>00:06:12,470 --&gt; 00:06:16,310</line>
+<line>with xslt it's the small</line>
+<line>test project i'm going</line>
+
+<line>110</line>
+<line>00:06:16,310 --&gt; 00:06:20,850</line>
+<line>to invite you to go</line>
+<line>over um choose some</line>
+
+<line>111</line>
+<line>00:06:20,850 --&gt; 00:06:24,750</line>
+<line>xml to start with um</line>
+<line>i was suggesting this</line>
+
+<line>112</line>
+<line>00:06:24,750 --&gt; 00:06:28,150</line>
+<line>um like working the</line>
+<line>vogue project team could</line>
+
+<line>113</line>
+<line>00:06:28,150 --&gt; 00:06:30,370</line>
+<line>work with a collection</line>
+<line>of their files but</line>
+
+<line>114</line>
+<line>00:06:30,370 --&gt; 00:06:33,410</line>
+<line>you can kind of see um</line>
+<line>some interesting things</line>
+
+<line>115</line>
+<line>00:06:33,410 --&gt; 00:06:38,270</line>
+<line>here coded with rs you</line>
+<line>could count materials</line>
+
+<line>116</line>
+<line>00:06:38,270 --&gt; 00:06:42,690</line>
+<line>um fabrics garments</line>
+<line>like find something</line>
+
+<line>117</line>
+<line>00:06:42,690 --&gt; 00:06:45,750</line>
+<line>get counts of things</line>
+<line>and count how many</line>
+
+<line>118</line>
+<line>00:06:45,750 --&gt; 00:06:47,930</line>
+<line>there are of that type</line>
+<line>so i'd suggest maybe</line>
+
+<line>119</line>
+<line>00:06:47,930 --&gt; 00:06:51,690</line>
+<line>looking at colors or</line>
+<line>something because this</line>
+
+<line>120</line>
+<line>00:06:51,690 --&gt; 00:06:54,470</line>
+<line>team was really interested</line>
+<line>in the colors like</line>
+
+<line>121</line>
+<line>00:06:54,470 --&gt; 00:06:56,750</line>
+<line>what colors were</line>
+<line>popular in a given era.</line>
+
+<line>122</line>
+<line>00:06:57,350 --&gt; 00:07:01,990</line>
+<line>And you can count</line>
+<line>the number of</line>
+
+<line>123</line>
+<line>00:07:01,990 --&gt; 00:07:04,670</line>
+<line>things of a kind</line>
+<line>that have variety,</line>
+
+<line>124</line>
+<line>00:07:04,670 --&gt; 00:07:06,290</line>
+<line>like what are the</line>
+<line>different values</line>
+
+<line>125</line>
+<line>00:07:06,290 --&gt; 00:07:09,070</line>
+<line>of color in this</line>
+<line>chunk of code.</line>
+
+<line>126</line>
+<line>00:07:09,310 --&gt; 00:07:11,490</line>
+<line>You can, if you're ready</line>
+
+<line>127</line>
+<line>00:07:11,490 --&gt; 00:07:13,070</line>
+<line>to process a collection,</line>
+
+<line>128</line>
+<line>00:07:13,750 --&gt; 00:07:17,070</line>
+<line>you could process the</line>
+<line>collection of these</line>
+
+<line>129</line>
+<line>00:07:17,070 --&gt; 00:07:19,810</line>
+<line>TEI files. I'm going</line>
+<line>to prepare a mock-up of</line>
+
+<line>130</line>
+<line>00:07:19,810 --&gt; 00:07:21,850</line>
+<line>that this weekend so</line>
+<line>that you know how to</line>
+
+<line>131</line>
+<line>00:07:21,850 --&gt; 00:07:24,330</line>
+<line>work with a collection</line>
+<line>of XML instead of just</line>
+
+<line>132</line>
+<line>00:07:24,330 --&gt; 00:07:28,190</line>
+<line>one file to make an</line>
+<line>SVG plot but it's gonna</line>
+
+<line>133</line>
+<line>00:07:28,190 --&gt; 00:07:30,070</line>
+<line>work essentially the</line>
+<line>same way you sort of</line>
+
+<line>134</line>
+<line>00:07:30,070 --&gt; 00:07:33,830</line>
+<line>drill into these files</line>
+<line>count the number of</line>
+
+<line>135</line>
+<line>00:07:33,830 --&gt; 00:07:37,750</line>
+<line>things that like that</line>
+<line>represent a color and</line>
+
+<line>136</line>
+<line>00:07:37,750 --&gt; 00:07:42,510</line>
+<line>output them so we'll</line>
+<line>try that another option</line>
+
+<line>137</line>
+<line>00:07:42,510 --&gt; 00:07:44,910</line>
+<line>you could look at is</line>
+<line>the pokey this Pokemon</line>
+
+<line>138</line>
+<line>00:07:44,910 --&gt; 00:07:49,730</line>
+<line>moves file which let</line>
+<line>me see where did I put</line>
+
+<line>139</line>
+<line>00:07:49,730 --&gt; 00:07:55,390</line>
+<line>that that's going to be</line>
+<line>in what it's probably</line>
+
+<line>140</line>
+<line>00:07:55,390 --&gt; 00:08:02,950</line>
+<line>faster for me to get</line>
+<line>to this fire text</line>
+
+<line>141</line>
+<line>00:08:02,950 --&gt; 00:08:06,190</line>
+<line>analysis hub if I do</line>
+<line>that from here I can just</line>
+
+<line>142</line>
+<line>00:08:06,190 --&gt; 00:08:08,050</line>
+<line>show you where this</line>
+<line>is my stuff's always</line>
+
+<line>143</line>
+<line>00:08:08,050 --&gt; 00:08:12,530</line>
+<line>in class examples and</line>
+<line>you will find an XSLT</line>
+
+<line>144</line>
+<line>00:08:12,530 --&gt; 00:08:16,030</line>
+<line>to SVG here's a little</line>
+<line>Pokemon on moves folder</line>
+
+<line>145</line>
+<line>00:08:16,030 --&gt; 00:08:19,850</line>
+<line>and there's some pretty</line>
+<line>simple xml in here</line>
+
+<line>146</line>
+<line>00:08:19,850 --&gt; 00:08:25,030</line>
+<line>where every move element</line>
+<line>has categories and</line>
+
+<line>147</line>
+<line>00:08:25,030 --&gt; 00:08:29,330</line>
+<line>you could count up the</line>
+<line>number of different</line>
+
+<line>148</line>
+<line>00:08:29,330 --&gt; 00:08:31,510</line>
+<line>things that are like</line>
+<line>that share the same</line>
+
+<line>149</line>
+<line>00:08:31,510 --&gt; 00:08:35,170</line>
+<line>category um get a count</line>
+<line>of those things and</line>
+
+<line>150</line>
+<line>00:08:35,170 --&gt; 00:08:38,310</line>
+<line>then try to plot them</line>
+<line>you know you know as the</line>
+
+<line>151</line>
+<line>00:08:38,310 --&gt; 00:08:40,910</line>
+<line>parts that make a</line>
+<line>whole these are um this</line>
+
+<line>152</line>
+<line>00:08:40,910 --&gt; 00:08:43,090</line>
+<line>is this is some good</line>
+<line>data to help show that</line>
+
+<line>153</line>
+<line>00:08:43,090 --&gt; 00:08:45,630</line>
+<line>so mess around you</line>
+<line>don't have to use these</line>
+
+<line>154</line>
+<line>00:08:45,630 --&gt; 00:08:47,710</line>
+<line>two files but I'm</line>
+<line>suggesting that they might</line>
+
+<line>155</line>
+<line>00:08:47,710 --&gt; 00:08:52,070</line>
+<line>be good for doing a</line>
+<line>quick visual analysis</line>
+
+<line>156</line>
+<line>00:08:52,070 --&gt; 00:08:57,550</line>
+<line>and see if you can make</line>
+<line>some kind of SVG plot</line>
+
+<line>157</line>
+<line>00:08:57,550 --&gt; 00:08:59,750</line>
+<line>that plots the parts</line>
+<line>of a complete whole.</line>
+
+<line>158</line>
+<line>00:09:00,210 --&gt; 00:09:03,650</line>
+<line>Alright, that's it.</line>
+<line>I'm happy that finally</line>
+
+<line>159</line>
+<line>00:09:03,650 --&gt; 00:09:05,</line></speech></cue><cue><id>850</id>
+<times>worked and I will</times>
+<speech><line>see you next week.</line></speech></cue></transcript>
