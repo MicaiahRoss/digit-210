@@ -1,0 +1,228 @@
+
+Hacker News
+new
+past
+comments
+ask
+show
+jobs
+submit
+login
+
+Make macOS consistently bad (unironically)
+lr0.org
+speckx
+1 hour ago
+hide
+81 comments
+
+Anatomy of the .claude/ folder
+dailydoseofds.com
+freedomben
+6 hours ago
+hide
+149 comments
+
+Nashville library launches Memory Lab for digitizing home movies
+axios.com
+toomuchtodo
+3 hours ago
+hide
+6 comments
+
+Telnyx package compromised on PyPI
+telnyx.com
+ramimac
+2 hours ago
+hide
+58 comments
+
+Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot
+owltec.ca
+8organicbits
+7 hours ago
+hide
+44 comments
+
+Some uncomfortable truths about AI coding agents
+standupforme.app
+borealis-dev
+3 hours ago
+hide
+36 comments
+
+Explore the Hidden World of Sand
+magnifiedsand.com
+RAAx707
+6 hours ago
+hide
+29 comments
+
+Building FireStriker: Making Civic Tech Free
+firestriker.org
+noleary
+4 hours ago
+hide
+12 comments
+
+Embracing Bayesian methods in clinical trials
+jamanetwork.com
+nextos
+4 hours ago
+hide
+4 comments
+
+Meow.camera
+meow.camera
+surprisetalk
+6 hours ago
+hide
+26 comments
+
+Desk for people who work at home with a cat
+soranews24.com
+zdw
+5 hours ago
+hide
+108 comments
+
+Ask HN: Founders of estonian e-businesses – is it worth it?
+udl
+4 hours ago
+hide
+29 comments
+
+Can It Resolve DOOM? Game Engine in 2k DNS Records
+core-jmp.org
+Einenlum
+3 hours ago
+hide
+2 comments
+
+ISBN Visualization – Annas Archive
+annas-archive.gd
+Cider9986
+57 minutes ago
+hide
+discuss
+
+‘Energy independence feels practical’: Europeans building mini solar farms
+euronews.com
+vrganj
+12 hours ago
+hide
+138 comments
+
+People inside Microsoft are fighting to drop mandatory Microsoft Account
+windowscentral.com
+breve
+7 hours ago
+hide
+323 comments
+
+A Faster Alternative to Jq
+micahkepe.com
+pistolario
+13 hours ago
+hide
+218 comments
+
+Schedule tasks on the web
+claude.com
+iBelieve
+16 hours ago
+hide
+220 comments
+
+Show HN: Open-Source Animal Crossing–Style UI for Claude Code Agents
+github.com/outworked
+ZeidJ
+3 hours ago
+hide
+16 comments
+
+Gzip decompression in 250 lines of Rust
+iev.ee
+vismit2000
+8 hours ago
+hide
+34 comments
+
+Hold on to Your Hardware
+xn--gckvb8fzb.com
+LucidLynx
+10 hours ago
+hide
+428 comments
+
+21,864 Yugoslavian .yu domains
+jacobfilipp.com
+freediver
+8 hours ago
+hide
+75 comments
+
+Capability-Based Security for Redox: Namespace and CWD as Capabilities
+redox-os.org
+ejplatzer
+1 hour ago
+hide
+discuss
+
+Browser-based SFX synthesizer using WASM/Zig
+medieval.software
+galsjel
+4 hours ago
+hide
+2 comments
+
+EMachines never obsolete PCs: More than a meme
+dfarq.homeip.net
+zdw
+7 hours ago
+hide
+31 comments
+
+AI got the blame for the Iran school bombing. The truth is more worrying
+theguardian.com
+cptroot
+4 hours ago
+hide
+196 comments
+
+Solving Semantle with the Wrong Embeddings
+victoriaritvo.com
+evakhoury
+1 hour ago
+hide
+discuss
+
+Should QA exist?
+rubick.com
+PretzelFisch
+10 hours ago
+hide
+107 comments
+
+Everything old is new again: memory optimization
+nibblestew.blogspot.com
+ibobev
+14 hours ago
+hide
+109 comments
+
+The 'paperwork flood': How I drowned a bureaucrat before dinner
+sightlessscribbles.com
+robin_reala
+8 hours ago
+hide
+399 comments
+More
+Guidelines
+FAQ
+Lists
+API
+Security
+Legal
+Apply to YC
+Contact
