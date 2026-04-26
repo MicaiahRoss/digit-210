@@ -1,0 +1,33 @@
+=== Season 1 - Top 15 Most Ambiguous Adjectives ===
+Word: broken | Number of Synsets (Ambiguity): 75
+Word: light | Number of Synsets (Ambiguity): 47
+Word: clear | Number of Synsets (Ambiguity): 45
+Word: give | Number of Synsets (Ambiguity): 45
+Word: hold | Number of Synsets (Ambiguity): 45
+Word: fallen | Number of Synsets (Ambiguity): 44
+Word: catch | Number of Synsets (Ambiguity): 39
+Word: shot | Number of Synsets (Ambiguity): 38
+Word: close | Number of Synsets (Ambiguity): 37
+Word: open | Number of Synsets (Ambiguity): 36
+Word: right | Number of Synsets (Ambiguity): 36
+Word: beat | Number of Synsets (Ambiguity): 34
+Word: wrought | Number of Synsets (Ambiguity): 34
+Word: clean | Number of Synsets (Ambiguity): 31
+Word: following | Number of Synsets (Ambiguity): 30
+
+=== Season 5 - Top 15 Most Ambiguous Adjectives ===
+Word: broken | Number of Synsets (Ambiguity): 75
+Word: play | Number of Synsets (Ambiguity): 52
+Word: light | Number of Synsets (Ambiguity): 47
+Word: give | Number of Synsets (Ambiguity): 45
+Word: hold | Number of Synsets (Ambiguity): 45
+Word: caught | Number of Synsets (Ambiguity): 39
+Word: shot | Number of Synsets (Ambiguity): 38
+Word: close | Number of Synsets (Ambiguity): 37
+Word: open | Number of Synsets (Ambiguity): 36
+Word: right | Number of Synsets (Ambiguity): 36
+Word: drive | Number of Synsets (Ambiguity): 34
+Word: clean | Number of Synsets (Ambiguity): 31
+Word: lead | Number of Synsets (Ambiguity): 31
+Word: heavy | Number of Synsets (Ambiguity): 30
+Word: back | Number of Synsets (Ambiguity): 28
